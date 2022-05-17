@@ -1,0 +1,21 @@
+body {
+
+    color: #f7f7f7;
+  }
+
+.jumbotron {
+    background-image: url("C:/Users/Blaine/Documents/College/Bootcamp/11) UFOs/images/nasa.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+    }
+
+.center-block {
+    margin: auto;
+    display: block;
+  }
+
+label {
+    text-align: left;
+    display: block;
+    text-indent: -5%;
+  }
